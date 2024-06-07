@@ -1,4 +1,51 @@
-head {
-Fuente: verdana
-Color: blanco
+/* Estilos comunes */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.version2 {
+    background-image: url('../images/hero-bg.png');
+    background-size: cover;
+    color: white;
+}
+
+.version2 h1 {
+    font-family: verdana;
+    font-size: 24px;
+}
+
+.version2 p {
+    font-size: 16px;
+}
+
+
+.version3 {
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.version3 h1 {
+    font-family: Georgia, serif;
+    font-size: 28px;
+}
+
+.version3 p {
+    font-size: 18px;
 }
