@@ -1,4 +1,4 @@
-/* Estilos comunes */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -26,6 +26,12 @@ body {
     color: white;
 }
 
+.version2 img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
 .version2 h1 {
     font-family: verdana;
     font-size: 24px;
@@ -41,11 +47,17 @@ body {
     color: #333;
 }
 
+.version3 img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
 .version3 h1 {
-    font-family: Georgia, serif;
-    font-size: 28px;
+    font-family: verdana;
+    font-size: 24px;
 }
 
 .version3 p {
-    font-size: 18px;
+    font-size: 16px;
 }
